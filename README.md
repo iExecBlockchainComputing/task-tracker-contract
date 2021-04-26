@@ -16,3 +16,6 @@ to see the contract on Etherscan.
 
 ### ABI
 The contract's ABI can be found in `abi/TaskCounter.json`
+
+### Compilation
+This contract was compiled with solidity compiler version: `^0.8.4`
